@@ -1,0 +1,26 @@
+{
+  "name": "polyfill-contextmenu",
+  "version": "1.0.0",
+  "description": "Native Javascript solution to contextmenus",
+  "main": "src/contextMenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dishad/polyfill-contextmenu.git"
+  },
+  "keywords": [
+    "polyfill",
+    "contextmenu",
+    "javascript",
+    "native",
+    "html5"
+  ],
+  "author": "Donald Disha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dishad/polyfill-contextmenu/issues"
+  },
+  "homepage": "https://github.com/dishad/polyfill-contextmenu#readme"
+}
