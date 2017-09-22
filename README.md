@@ -44,7 +44,10 @@ var options = {
 ```
 ## Options attributes
 `selector` is the identifier for the DOMElement you want to add the contextmenu to
+
 `items` is an object filled with your contextmenu buttons + horizontal rules
+
 `name` is what will be shown as the text for the button on the contextmenu, if you want the list item to be a horizontal rule, give it the name `'separator'`
+
 `callback` callback event when user selects button on contextmenu
     
